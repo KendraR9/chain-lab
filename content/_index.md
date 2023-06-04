@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Chain Lab
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Chain
+        Lab
       image:
-        filename: welcome.jpg
+        filename: 1685855056354.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Chain Lab** has been a center of excellence for VLP research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: 1685855056354.jpg
           filters:
             brightness: 1
           parallax: false
@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {% cta cta_link="./people/" cta_text="Meet the team →" %}
     design:
       columns: '1'
 ---
