@@ -1,7 +1,7 @@
 ---
 title: Dr. Rubén Cadena
 role: Investigador Asociado C
-avatar_filename: 330dr-ruben-cadena.jpg
+avatar_filename: avatar.jpg
 bio: VLPs
 interests:
   - VLPs
