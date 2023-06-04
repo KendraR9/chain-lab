@@ -9,17 +9,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.mx/citations?user=f9IYkfYAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: CNyN - UNAM
     url: ""
 education:
   courses: []
